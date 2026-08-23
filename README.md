@@ -24,7 +24,7 @@
 
 ### 🚀 About Me
 
-I'm a final-year CS student who builds and ships real products — not just tutorial projects.  
+I'm a  CS student who builds and ships real products — not just tutorial projects.  
 I work across the full stack with Java/Spring Boot on the backend and React.js on the frontend, and I'm actively expanding into Python/AI-ML development as well.
 
 Currently open to **SDE** and **AI/ML Developer** roles.
